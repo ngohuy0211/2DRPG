@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da7aa3cb0a3f25408d8da582562e9af, type: 3}
+  m_Name: BrozenSword
+  m_EditorClassIdentifier: 
+  ItemPref: {fileID: 5366897422992782566, guid: c964306b147653c46b8996c07749a99d, type: 3}
+  DisplayName: Brozen Sword
+  Description: 
+  Stackable: 0
+  Equipable: 1
+  MinDamage: 2
+  MaxDamage: 4
+  CriticalChance: 0.5
+  CriticalDamageMultiplier: 0
